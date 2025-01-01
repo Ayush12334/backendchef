@@ -1,0 +1,27 @@
+{
+  "name": "backendchef",
+  "version": "1.0.0",
+  "description": "An npm package for developing backend",
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "homepage": "https://github.com/Ayush12334/backendchef#readme",
+  "bugs": {
+    "url": "https://github.com/Ayush12334/backendchef/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayush12334/backendchef.git"
+  },
+  "license": "ISC",
+  "author": "Ayush Yadav",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
